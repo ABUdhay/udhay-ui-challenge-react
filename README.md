@@ -1,4 +1,9 @@
 # udhay-ui-challenge-react
 This is ui challenge
 
-Just open the udhay-ui-challenge-ge.html file
+I have just used cdn for libraries:
+React,
+ReactDOM,
+Babel compiler for JSX
+
+Open the ui-challenge.html file
